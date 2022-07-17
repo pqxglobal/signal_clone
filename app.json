@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "signal_clone",
+    "owner": "pqx global",
     "slug": "signal_clone",
     "version": "1.0.0",
     "orientation": "portrait",
