@@ -2,4 +2,4 @@
 > This repo contains code for the Signal clone practice project.
 > https://signal.org/en/#signal
 
-npx create-expo-app -t expo-template-blank-typescript
+> npx create-expo-app -t expo-template-blank-typescript
