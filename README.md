@@ -3,3 +3,4 @@
 > https://signal.org/en/#signal
 >
 > npx create-expo-app -t expo-template-blank-typescript
+> test
